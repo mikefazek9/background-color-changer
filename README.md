@@ -14,3 +14,7 @@ Background-color Changer application.
 - generated custom javaScript array, with color strings
 - created eventListener on button click that takes the getRandomNumber of the array length that returns the randomNumber string from the colors array and changes the body background color.
 - also generates the name of the color above the button that the getRandomNumber selects from the array length.
+
+
+### Link to netlify
+https://bkg-color-changer.netlify.app/
